@@ -6,10 +6,12 @@
 
 ## 🎬 Demo
 🎞️ Watch the demo below:
-<video src="https://github.com/Iamdeepaksaxena/Advanced-Movie-Recommendation-Engine/raw/main/assets/demo.mp4" width="720" controls></video>
-
-> 💡 If GitHub doesn’t render the video inline, [click here to download or view it](https://github.com/Iamdeepaksaxena/Advanced-Movie-Recommendation-Engine/raw/main/assets/demo.mp4).
-
+<video src="https://github.com/Iamdeepaksaxena/Advanced-Movie-Recommendation-Engine/raw/main/assets/demo.mp4" 
+       width="720" 
+       controls 
+       style="display:block;margin:auto;">
+</video>
+<video src="https://github.com/Iamdeepaksaxena/Advanced-Movie-Recommendation-Engine/raw/main/assets/demo.mp4"  width="720" controls></video>
 ---
 
 ## 🚀 Features
