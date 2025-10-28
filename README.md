@@ -4,7 +4,7 @@
 
 ---
 <p align="center">
-  <img src="assets/diagram.png" width="600">
+  <img src="https://raw.githubusercontent.com/Iamdeepaksaxena/Advanced-Movie-Recommendation-Engine/main/assets/image.png" width="600">
 </p>
 ---
 
