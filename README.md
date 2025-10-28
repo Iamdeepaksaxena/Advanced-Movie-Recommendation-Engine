@@ -3,6 +3,7 @@
 > Advanced AI Movie Recommendation Engine built with **LangChain**, **OpenAI**, **HuggingFace Embeddings**, and **Gradio** — delivering context-aware, intelligent, and explainable movie suggestions using Retrieval-Augmented Generation (RAG).
 
 ---
+![Uploading image.png…]()
 
 ## 🎬 Demo
 🎞️ Watch the demo below:
